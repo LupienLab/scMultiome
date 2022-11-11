@@ -5,7 +5,9 @@ This repository is an extension for scMultiome pipleine to create, merge single 
 
 In order to run this pipleline use following command:
 
+```
 bash run_analysis.sh "obj_gen" "merge"
+```
 
 This will run 01-Generating_Seurat_Obj.R and 02-Merging_Seurat_Obj.R
 
